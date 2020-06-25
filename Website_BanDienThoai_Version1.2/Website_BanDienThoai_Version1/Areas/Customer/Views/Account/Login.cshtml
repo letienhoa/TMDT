@@ -1,0 +1,41 @@
+﻿@model Website_BanDienThoai_Version1.Models.ViewModel.LoginViewModel
+@{
+    Layout = "~/Areas/Customer/Views/Shared/_AccountView.cshtml";
+
+}
+
+
+<form role="form" asp-action="Login" asp-controller="Account" method="post">
+
+    <div class="container">
+        <h2 style="text-align: center; font-size:50px"><b>Đăng nhập</b></h2>
+        <h2 style="text-align: center; font-size:20px;font-style:italic;color:red;">@TempData["StatusMessage"]</h2>
+       
+        <label for="uname"><b>Tên đăng nhập</b></label>
+        <input type="text" name="UserName" asp-for="UserName" class="form-control input-sm" autocomplete="off" data-val="true" placeholder="UserName">
+        <span asp-validation-for="UserName" class="text-danger"></span>
+
+
+        <label for="Password">Mật khẩu</label>
+        <input type="password" name="Password" asp-for="Password" autocomplete="off" class="form-control input-sm" data-val="true" placeholder="Password">
+        <span asp-validation-for="Password" class="text-danger"></span>
+
+        <button type="submit" style="background-color:rgb(0, 123, 255); ">Đăng nhập</button>
+        <label>
+            <input type="checkbox" checked="checked" name="remember"> Nhớ mật khẩu
+        </label>
+    </div>
+
+    <div class="container" style="background-color:#f1f1f1">
+        <a asp-area="Customer" asp-controller="Home" asp-action="Index" class="btn btn-danger">Hủy</a>
+        <span class="psw">Quên <a asp-area="Customer" asp-controller="Account" asp-action="FogetPassword">Mật khẩu?</a></span>
+    </div>
+</form>
+
+
+
+
+
+
+
+
