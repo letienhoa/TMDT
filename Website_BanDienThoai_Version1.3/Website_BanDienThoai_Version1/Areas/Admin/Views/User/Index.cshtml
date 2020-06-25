@@ -8,11 +8,11 @@
 <div class="row">
     <div class="col-6 " style="padding-left:40px;font-size:30px;text-align:center;">
 
-        <p class="text-info"> Users List</p>
+        <p class="text-info"> Danh sách người dùng</p>
     </div>
 
     <div class="col-6 text-right" style="padding-right:20px;">
-        <a asp-action="Create" class="btn btn-info">New User</a>
+        <a asp-action="Create" class="btn btn-info">Thêm người dùng</a>
     </div>
 </div>
 <br />
@@ -20,25 +20,25 @@
     <table class="table table-striped boder">
         <tr class="table-info text-bold">
             <th>
-                @Html.DisplayNameFor(m => m.Name)
+                Họ tên
             </th>
             <th>
-                @Html.DisplayNameFor(m => m.UserName)
+                Tên hiển thị
             </th>
             <th>
-                @Html.DisplayNameFor(m => m.Password)
+                Mật khẩu
             </th>
             <th>
-                @Html.DisplayNameFor(m => m.Email)
+                Email
             </th>
             <th>
-                @Html.DisplayNameFor(m => m.Phone)
+                Số điện thoại
             </th>
             <th>
-                @Html.DisplayNameFor(m => m.DateOfBith)
+                Ngày sinh
             </th>
             <th>
-                @Html.DisplayNameFor(m => m.Gender)
+                Giới tính
             </th>
             <th></th>
         </tr>

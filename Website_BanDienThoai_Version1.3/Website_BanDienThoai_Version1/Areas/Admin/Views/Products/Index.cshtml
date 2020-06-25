@@ -12,7 +12,7 @@
     </div>
 
     <div class="col-6 text-right" style="padding-right:20px;">
-        <a asp-action="Create" class="btn btn-info">New Product</a>
+        <a asp-action="Create" class="btn btn-info">Thêm sản phẩm mới</a>
     </div>
 </div>
 <br />
@@ -23,7 +23,7 @@
               Tên sản phẩm
             </th>
             <th>
-                Link ảnh
+                Ảnh
             </th>
 
             <th>
@@ -59,8 +59,8 @@
                 <td>
                     @Html.DisplayFor(m => item.Name)
                 </td>
-                <td>
-                    @Html.DisplayFor(m => item.Image)
+                <td style="width:80px;height:80px">
+                    <img class=" card-img-top" src="@item.Image" alt="card-img"/>
                 </td>
                 <td>
                     @Html.DisplayFor(m => item.Memory)

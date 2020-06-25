@@ -5,31 +5,6 @@
 }
 
 
-@*<form role="form" asp-action="Login" asp-controller="Account" method="post">
-        <div class="container">
-            <h2 style="text-align: center; font-size:50px"><b>Login</b></h2>
-            <h2 style="text-align: center; font-size:20px;font-style:italic;color:red;">@TempData["StatusMessage"]</h2>
-
-            <label for="uname"><b>Username</b></label>
-            <input type="text" name="UserName" asp-for="UserName" class="form-control input-sm" autocomplete="off" data-val="true" placeholder="UserName">
-            <span asp-validation-for="UserName" class="text-danger"></span>
-
-
-            <label for="Password">Password</label>
-            <input type="password" name="Password" asp-for="Password" autocomplete="off" class="form-control input-sm" data-val="true" placeholder="Password">
-            <span asp-validation-for="Password" class="text-danger"></span>
-
-            <button type="submit" style="background-color:rgb(0, 123, 255); ">Login</button>
-            <label>
-                <input type="checkbox" checked="checked" name="remember"> Remember me
-            </label>
-        </div>
-
-        <div class="container" style="background-color:#f1f1f1">
-            <a asp-area="Customer" asp-controller="Home" asp-action="Index" class="btn btn-danger">Cancel</a>
-            <span class="psw">Forgot <a asp-area="Customer" asp-controller="Account" asp-action="FogetPassword">Password?</a></span>
-        </div>
-    </form>*@
 
 
 

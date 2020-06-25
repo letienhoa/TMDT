@@ -64,7 +64,8 @@ namespace Website_BanDienThoai_Version1.Areas.Customer.Controllers
                     return RedirectToAction("Index", "Home", new { area = "Customer" });
                 }
             }
-            return View("Index");
+            TempData["StatusMessage"] = "Yêu cầu nhập đầy đủ thông tin!!!";
+            return View();
         }
         public IActionResult Register()
         {
