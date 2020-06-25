@@ -1,0 +1,119 @@
+﻿@model Website_BanDienThoai_Version1.Models.Products
+@using Website_BanDienThoai_Version1.Extentions
+<br />
+<h2 class="text-info">
+    Product  Details
+</h2>
+<form method="post">
+    <div class="p-4 border rounded row">
+        <input hidden asp-for="Id" />
+
+        <div class="col-8">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Name">Tên sản phẩm</label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Name" class="form-control" readonly />
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Memory">Bộ nhớ ram</label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Memory" class="form-control" readonly />
+                </div>
+            </div>
+         
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Capacity">Dung lượng</label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Capacity" class="form-control" readonly />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Manufacturer">Hãng sẳn xuất</label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Manufacturer" class="form-control" readonly />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Color">Màu</label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Color" class="form-control" readonly />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Price">Giá</label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Price" class="form-control" readonly />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Category">Thiết bị</label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Name" class="form-control" readonly />
+                </div>
+            </div>
+            @if (!Model.SpecialTag.Name.Equals("--None--"))
+            {
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="SpecialTag">Thuộc loại</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="SpecialTag.Name" class="form-control" readonly />
+                    </div>
+                </div>
+            }
+            <div class="form-group row">
+                <div class="col-4">
+                  
+                </div>
+                <div class="col-8">
+                    @if (Model.Quantity == 0)
+                    {
+                      <h3>Sẳn phẩm tạm hết hàng</h3>
+                    }
+                    else
+                    {
+                    <button type="submit" value="Add to Bag" asp-route-id="@Model.Id" class="btn btn-primary">Thêm vào giỏ hàng</button>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="col-1">
+        </div>
+        <div class="col-3">
+            <img src="@Model.Image" width="100%" style="border-radius:5px;border:1px solid #bbb9b9;" />
+            <br />
+            <br />
+            @if (Model.Quantity == 0)
+            {
+                <h3>HẾT HÀNG</h3>
+            }
+            else
+            {
+                <h3>CÒN HÀNG</h3>
+            }
+        </div>
+        <br />
+        <div class="form-group">
+            <input hidden asp-for="Id" />
+            <a asp-action="Index" class="button">Trở lại</a>
+        </div>
+    </div>
+</form>

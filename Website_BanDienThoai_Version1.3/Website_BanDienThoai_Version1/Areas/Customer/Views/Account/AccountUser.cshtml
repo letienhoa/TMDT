@@ -1,0 +1,71 @@
+﻿@{
+    Layout = "~/Areas/Customer/Views/Shared/_AccountView.cshtml";
+}
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-5  toppad  pull-right col-md-offset-3 ">
+            <br>
+            <br>
+            <br>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-3 col-lg-offset-3 toppad">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Tài khoản</h3>
+                </div>
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-3 col-lg-3 " align="center">
+                            <img alt="User Pic"
+                                 src="https://virl.bc.ca/wp-content/uploads/2019/01/AccountIcon2.png"
+                                 class="img-circle img-responsive">
+                        </div>
+                        <div class=" col-md-9 col-lg-9 ">
+                            <table class="table table-user-information">
+                                <tbody>
+                                    <tr>
+                                        <td>Full Name:</td>
+                                        <td>@ViewBag.Name</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>UserName: </td>
+                                        <td>@ViewBag.Username</td>
+                                    </tr>
+                                    <tr>
+                                    <tr>
+                                        <td>Password:</td>
+                                        <td> @ViewBag.Password</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Email :</td>
+                                        <td><a href="#"></a>@ViewBag.Email</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Phone: </td>
+                                        <td>@ViewBag.Phone</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DateOfBirth: </td>
+                                        <td>@ViewBag.DateOfBirth</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Gender: </td>
+                                        <td>@ViewBag.Gender</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel-footer">
+                    <a asp-action="ChangeAccount" asp-route-id="@ViewBag.Id" class="btn btn-primary">Đổi thông tin cá nhân</a>
+
+                    <a asp-area="Customer" asp-controller="Home" asp-action="Index" class="btn btn-primary">Trang chủ</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,52 @@
+﻿
+@model IEnumerable<Website_BanDienThoai_Version1.Models.Category>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<br />
+<br />
+
+<div class="row">
+    <div class="col-6 " style="padding-left:40px;font-size:30px;text-align:center">
+
+        <p class="text-info"> Category List</p>
+    </div>
+
+
+    <div class="col-6 text-right" style="padding-right:20px">
+        <a asp-action="Create" class="btn btn-info">New Category</a>
+    </div>
+</div>
+<br />
+<div style="font-size:14px;">
+    <table class="table table-striped boder">
+        <tr class="table-info text-bold">
+            <th>
+                @Html.DisplayNameFor(m => m.Name)
+            </th>
+            <th>
+
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(m => item.Name)
+                </td>
+
+                <td style="width:150px;">
+                    <div class="btn-group" role="group" >
+                        <a asp-action="Edit" class="btn btn-primary" asp-route-id="@item.Id"><i class="fas fa-edit"></i></a>
+                        <a asp-action="Details" class="btn btn-success" asp-route-id="@item.Id"><i class="fas fa-list-alt"></i></a>
+                        <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.Id"><i class="fas fa-trash-alt"></i></a>
+                    </div>
+                </td>
+            </tr>
+
+        }
+    </table>
+</div>
+
+
