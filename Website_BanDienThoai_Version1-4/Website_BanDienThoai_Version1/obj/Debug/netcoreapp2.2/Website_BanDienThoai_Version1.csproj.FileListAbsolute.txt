@@ -851,159 +851,80 @@ C:\Users\Hoa Le\Downloads\TMDT-Han\Website_BanDienThoai_Version1.3\Website_BanDi
 C:\Users\Hoa Le\Downloads\TMDT-Han\Website_BanDienThoai_Version1.3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.csproj.CopyComplete
 C:\Users\Hoa Le\Downloads\TMDT-Han\Website_BanDienThoai_Version1.3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Shared\_AccountView1.cshtml.g.cs
 C:\Users\Hoa Le\Downloads\TMDT-Han\Website_BanDienThoai_Version1.3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.csproj.CoreCompileInputs.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\appsettings.Development.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\libman.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\appsettings.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.deps.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.runtimeconfig.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.runtimeconfig.dev.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.dll
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.pdb
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.Views.dll
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.Views.pdb
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.csprojAssemblyReference.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorAssemblyInfo.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorAssemblyInfo.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.AssemblyInfoInputs.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.AssemblyInfo.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.TagHelpers.input.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.TagHelpers.output.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorCoreGenerate.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_MainMenu.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Create.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Delete.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Details.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Edit.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Create.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Delete.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Edit.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\About\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\AccountUser.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\ChangeAccount.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\FogetPassword.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\Login.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\Register.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Contact\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Search.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Laptop\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\LinhKien\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Phone\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Shared\_AccountView.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Shared\_AccountView1.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Tablet\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AppointmentCustomerDetails.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AppointmentProductDetails.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorTargetAssemblyInfo.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorTargetAssemblyInfo.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.Views.pdb
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.dll
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.pdb
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.csproj.CopyComplete
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT - Copy\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Shared\_AccountView2.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\appsettings.Development.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\appsettings.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\libman.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.deps.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.runtimeconfig.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.runtimeconfig.dev.json
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.dll
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.pdb
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.Views.dll
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.Views.pdb
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.csprojAssemblyReference.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorAssemblyInfo.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorAssemblyInfo.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.AssemblyInfoInputs.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.AssemblyInfo.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.TagHelpers.input.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.TagHelpers.output.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorCoreGenerate.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_MainMenu.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Create.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Delete.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Details.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Edit.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Create.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Delete.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Edit.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\About\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\AccountUser.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\ChangeAccount.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\FogetPassword.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\Login.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\Register.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Contact\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Search.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Laptop\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\LinhKien\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Phone\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Shared\_AccountView.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Shared\_AccountView1.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Shared\_AccountView2.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Tablet\Index.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AppointmentCustomerDetails.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AppointmentProductDetails.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorTargetAssemblyInfo.cache
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorTargetAssemblyInfo.cs
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.Views.pdb
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.dll
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.pdb
-C:\Users\Han Tran\Documents\Web-TMDT\TMDT\Website_BanDienThoai_Version1-4\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.csproj.CopyComplete
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\libman.json
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.deps.json
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.runtimeconfig.json
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.runtimeconfig.dev.json
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.dll
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.pdb
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.Views.dll
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\bin\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.Views.pdb
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.csprojAssemblyReference.cache
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorAssemblyInfo.cache
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorAssemblyInfo.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.AssemblyInfoInputs.cache
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.AssemblyInfo.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.TagHelpers.input.cache
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.TagHelpers.output.cache
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorCoreGenerate.cache
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_MainMenu.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Create.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Delete.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Details.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Edit.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SpecialTag\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Create.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Delete.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Edit.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\About\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\AccountUser.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\ChangeAccount.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\FogetPassword.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\Login.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Account\Register.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Contact\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Search.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Laptop\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\LinhKien\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Phone\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Shared\_AccountView.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Shared\_AccountView1.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Tablet\Index.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AppointmentCustomerDetails.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AppointmentProductDetails.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorTargetAssemblyInfo.cache
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.RazorTargetAssemblyInfo.cs
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.Views.pdb
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.dll
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.pdb
+E:\Data\Studying\Năm 3\Học kỳ 2\TMDT\Website_BanDienThoai_Version1-3\Website_BanDienThoai_Version1\obj\Debug\netcoreapp2.2\Website_BanDienThoai_Version1.csproj.CopyComplete
