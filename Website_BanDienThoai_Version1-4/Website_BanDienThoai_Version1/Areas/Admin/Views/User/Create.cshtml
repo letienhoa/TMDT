@@ -1,0 +1,62 @@
+﻿
+@model Website_BanDienThoai_Version1.Models.Users
+@{
+    ViewData["Title"] = "Create";
+}
+<br />
+
+<h2 class="text-info" style="padding-left:40px;font-size:30px;text-align:center;">Tạo người dùng</h2>
+
+<form method="post" asp-action="Create" style="padding-left:50px;font-size:14px;">
+
+    <div class="p-4 border rounded">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group row">
+            <label for="Name">Tên</label>
+            <input type="text" name="Name" asp-for="Name" class="form-control input-sm" autocomplete="off" data-val="true" data-val-required="The Mobile field is required." placeholder="Tên">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group row">
+            <label for="UserName">Tên đăng nhập</label>
+            <input type="text" name="UserName" asp-for="UserName" class="form-control input-sm" autocomplete="off" data-val="true" data-val-required="The Mobile field is required." placeholder="Tên đăng nhập">
+            <span asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+        <div class="form-group row">
+            <label asp-for="Phone">Số điện thoại</label>
+            <input type="text" name="Phone" data-val="true" autocomplete="off" data-val-required="The Mobile field is required." asp-for="Phone" class="form-control input-sm" placeholder="Số điện thoại">
+            <span asp-validation-for="Phone" class="text-danger"></span>
+        </div>
+        <div class="form-group row">
+            <label for="Email">Email</label>
+            <input type="email" name="Email" asp-for="Email" autocomplete="off" data-val="true" class="form-control input-sm" data-val-required="The Mobile field is required." placeholder="Email">
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group row">
+            <label for="Password">Mật khẩu</label>
+            <input type="password" name="Password" asp-for="Password" autocomplete="off" class="form-control input-sm" data-val="true" data-val-required="The Mobile field is required." placeholder="Mật khẩu">
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="DateOfBith">Ngày sinh</label>
+            <div class='input-group date' id='datetimepicker1'>
+                <input type='date' class="form-control" asp-for="DateOfBith" />
+                <span asp-validation-for="DateOfBith" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="Gender">Giới tính</label><br />
+            <label>
+                <input type="radio" asp-for="Gender" value=1 /> Nam
+            </label>
+            <label>
+                <input type="radio" asp-for="Gender" value=0 /> Nữ
+            </label>
+            <span asp-validation-for="Gender" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" class="btn btn-primary" value="Lưu lại" />
+            <a asp-action="Index" class="btn btn-success">Trở lại</a>
+        </div>
+    </div>
+</form>
