@@ -15,7 +15,7 @@
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/v4-shims.css">
-        <link rel="stylesheet" href="~/css/jquery.timepicker.css"/>
+        <link rel="stylesheet" href="~/css/jquery.timepicker.css" />
     </environment>
     <environment exclude="Development">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css"
@@ -30,7 +30,7 @@
 
     <link href="~/css/style.css" rel="stylesheet" />
     <link href="~/css/slider.css" rel="stylesheet" />
-  
+
 </head>
 <body>
     <header>
@@ -83,20 +83,22 @@
                             <li style="color:white">
                                 <a asp-area="Customer" asp-controller="ShoppingCart" asp-action="Index" class="nav-link">
                                     <i class="fas fa-shopping-cart"></i>&nbsp;
-                                    (0)
+                                    Giỏ Hàng (0)
                                 </a>
                             </li>
                         }
+                    <li>
+                        <div class="search_box text-bold" style="width:230px;margin-left:50px">
+                            <form asp-area="Customer" asp-controller="Home" asp-action="Search" method="post">
+                                <input type="text" value="" name="SearchString" placeholder="Tìm kiếm" ;" />
 
+                                <input type="submit" value="">
+                            </form>
+                        </div>
+                    </li>
                     </ul>
                 </div>
-                <div class="search_box text-bold">
-                    <form asp-area="Customer" asp-controller="Home" asp-action="Search" method="post">
-                        <input type="text" value="" name="SearchString" placeholder="Search";"/>
-                         
-                        <input type="submit" value="">
-                    </form>
-                </div>
+                
                 <div class="clear"></div>
             </div>
         </div>

@@ -76,12 +76,13 @@
         {
                 <div class="col-4">
                     <div class="card mb-4">
+                        <img class="card-img-top" style="height:100%;" src="@product.Image" alt="Card Image" />
                         <div class="card-header">
                             <h4 class="my-0 font-weight-normal">
                                 <label style="font-size:18px;color:steelblue;">@product.Name</label>
                             </h4>
                         </div>
-                        <img class="card-img-top" style="height:100%;" src="@product.Image" alt="Card Image" />
+
                         <div class="card-body">
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
@@ -89,7 +90,7 @@
                                 </div>
                                 <div class="add-cart">
                                     <a asp-action="Details" asp-controller="Home" class="button" asp-route-id="@product.Id">
-                                        View Details
+                                        Xem chi tiết
                                     </a>
                                 </div>
                             </div>

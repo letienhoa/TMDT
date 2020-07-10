@@ -7,7 +7,7 @@
         <div class="slider">
             <div id="slider">
                 <div id="mover">
-                    <div id="slide-1" class="slide" >
+                    <div id="slide-1" class="slide">
                         <div class="slider-img">
                             <a>
                                 <img src="~/images/slide/slide-4-image.png"
@@ -68,7 +68,7 @@
 <br />
 <br />
 <div class="content_top" style="border-bottom: thick double #32a1ce">
-    <div class="heading" >
+    <div class="heading">
         <h3>Sản phẩm mới</h3>
     </div>
     <div class="see">
@@ -118,8 +118,8 @@
     </div>
 </div>
 <br />
-<hr/>
-<div class="content_top"  style="border-bottom: thick double #32a1ce">
+<hr />
+<div class="content_top" style="border-bottom: thick double #32a1ce">
     <div class="heading">
         <h3>Sản phẩm đặc biệt</h3>
     </div>
@@ -135,32 +135,32 @@
         {
             @if (product.SpecialTag.Name == "Đặc biệt")
             {
-        <div class="col-3">
-            <div>
-                <br />
-                <img class="card-img-top" style="height:100%;" src="@product.Image" alt="Card Image" />
-                <div class="card-header" style="border-width:0px">
-                    <h4 class="my-0 font-weight-normal">
-                        <label style="font-size:15px;color:dodgerblue; ">@product.Name</label>
-                    </h4>
-                </div>
-                <div class="card-body">
-                    <div class="d-flex justify-content-between align-items-center">
-                        <div class="btn-group">
-                            <br />
-                            <label style="font-size:15px;color:#a51313;">Giá:&nbsp;<b>@product.Price<sup>đ</sup></b></label>
+                <div class="col-3">
+                    <div>
+                        <br />
+                        <img class="card-img-top" style="height:100%;" src="@product.Image" alt="Card Image" />
+                        <div class="card-header" style="border-width:0px">
+                            <h4 class="my-0 font-weight-normal">
+                                <label style="font-size:15px;color:dodgerblue; ">@product.Name</label>
+                            </h4>
                         </div>
-                        <div class="add-cart">
-                            <a style="font-size:15px" asp-action="Details" asp-controller="Home" class="button" asp-route-id="@product.Id">
-                                Chi tiết
-                            </a>
-                        </div>
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <br />
+                                    <label style="font-size:15px;color:#a51313;">Giá:&nbsp;<b>@product.Price<sup>đ</sup></b></label>
+                                </div>
+                                <div class="add-cart">
+                                    <a style="font-size:15px" asp-action="Details" asp-controller="Home" class="button" asp-route-id="@product.Id">
+                                        Chi tiết
+                                    </a>
+                                </div>
 
+                            </div>
+
+                        </div>
                     </div>
-
                 </div>
-            </div>
-        </div>
             }
 
         }

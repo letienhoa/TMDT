@@ -12,8 +12,8 @@ namespace Website_BanDienThoai_Version1.Models
         public string CustomerName { get; set; }
         public string CustomerPhoneNumber { get; set; }
         public string CustomerEmail { get; set; }
-        public string AppointmentDate { get; set; }
+        public string Address { get; set; }
         public int TotalPrice { get; set; }
-        public DateTime BillDate;
+        public DateTime AppointmentDate;
     }
 }

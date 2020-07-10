@@ -5,21 +5,21 @@
 
 <br />
 <h2 class="text-info" style="padding-left:40px;font-size:30px;text-align:center;">
-    SpecialTag Details
+    Thông tin phân loại
 </h2>
 
 <div class="p-4 border rounded" style="padding-left:50px;font-size:14px;">
     <div class="form-group row">
         <div class="col-2 text-bold">
-            <label asp-for="Name"></label>
+            <label asp-for="Name">Tên phân loại</label>
         </div>
         <div class="col-5">
             <input asp-for="Name" disabled class="form-control" />
         </div>
     </div>
     <div class="form-group">
-        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
-        <a asp-action="Index" class="btn btn-success">Back to List</a>
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Chỉnh sửa</a>
+        <a asp-action="Index" class="btn btn-success">Trở lại</a>
     </div>
 </div>
 

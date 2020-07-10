@@ -10,6 +10,7 @@ using Website_BanDienThoai_Version1.Extentions;
 using Website_BanDienThoai_Version1.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Globalization;
+using Org.BouncyCastle.Asn1.Cms;
 
 namespace Website_BanDienThoai_Version1.Areas.Customer.Controllers
 {
@@ -70,21 +71,23 @@ namespace Website_BanDienThoai_Version1.Areas.Customer.Controllers
             //string iString = DateTime.Now.ToString();
             //string dt = DateTime.ParseExact(iString, "MM/dd/yyyy HH:mm:ss tt", CultureInfo.InvariantCulture).ToString("yyyy-MM-dd HH:mm:ss tt", CultureInfo.InvariantCulture); ;
             // DateTime  dateTime = DateTime.ParseExact(s,"yyyy/mm/dd", CultureInfo.InvariantCulture);
-     
+            appointments.Address = ShoppingCartVM.Appointments.Address;
             appointments.CustomerName = ShoppingCartVM.Appointments.CustomerName;
-            appointments.CustomerEmail = ShoppingCartVM.Appointments.CustomerName;
+            appointments.CustomerEmail = ShoppingCartVM.Appointments.CustomerEmail;
             appointments.CustomerPhoneNumber = ShoppingCartVM.Appointments.CustomerPhoneNumber;
-            appointments.BillDate = Sop.Buydate;
-            appointments.AppointmentDate = "hihihi";
+            appointments.AppointmentDate =DateTime.Now;
             appointments.TotalPrice = total;
-   
+
             total = 0;
             _db.Database.ExecuteSqlCommand("EXECUTE DBO.Insert_Appointments {0},{1},{2},{3},{4},{5}",
-            appointments.BillDate, appointments.CustomerName, appointments.CustomerPhoneNumber, appointments.AppointmentDate, appointments.CustomerEmail, appointments.TotalPrice);
+            appointments.Address, appointments.CustomerName, appointments.CustomerPhoneNumber, appointments.AppointmentDate, appointments.CustomerEmail, appointments.TotalPrice);
             _db.SaveChanges();
-          //  appointments = ShoppingCartVM.Appointments;
-
-            int appointmentId = appointments.Id;
+            string sdt = appointments.CustomerPhoneNumber;
+            //  appointments = ShoppingCartVM.Appointments;
+            Appointments ThongtinKH = _db.Appointments
+                         .Where(p => p.CustomerPhoneNumber == sdt).DefaultIfEmpty().Last();
+            string h= ThongtinKH.CustomerPhoneNumber;
+            int appointmentId = ThongtinKH.Id;
 
             foreach (int productId in lstCartItems)
             {
@@ -96,7 +99,7 @@ namespace Website_BanDienThoai_Version1.Areas.Customer.Controllers
                 _db.ProductSelectedForAppointment.Add(ProductSelectedForAppointment);
 
             }
-           _db.SaveChanges();
+            _db.SaveChanges();
             lstCartItems = new List<int>();
             HttpContext.Session.Set("ssShoppingCart", lstCartItems);
 

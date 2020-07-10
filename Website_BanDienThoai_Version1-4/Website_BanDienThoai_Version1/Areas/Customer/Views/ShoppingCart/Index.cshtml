@@ -21,19 +21,19 @@
 
                                 </th>
                                 <th style="text-align:center;">
-                                    <label asp-for="@Model.Products.FirstOrDefault().Name"></label>
+                                    <label asp-for="@Model.Products.FirstOrDefault().Name">Tên sản phẩm</label>
                                 </th>
                                 <th style="text-align:center" ;">
-                                    <label asp-for="@Model.Products.FirstOrDefault().Price"></label>
+                                    <label asp-for="@Model.Products.FirstOrDefault().Price">Giá</label>
                                 </th>
                                 <th style="text-align:center" ;">
-                                    <label asp-for="@Model.Products.FirstOrDefault().Color"></label>
+                                    <label asp-for="@Model.Products.FirstOrDefault().Color">Màu sắc</label>
                                 </th>
                                 <th style="text-align:center" ;>
-                                    <label asp-for="@Model.Products.FirstOrDefault().Category.Name"></label>
+                                    <label asp-for="@Model.Products.FirstOrDefault().Category.Name">Tên danh mục</label>
                                 </th>
                                 <th style="text-align:center;">
-                                    <label asp-for="@Model.Products.FirstOrDefault().Memory"></label>
+                                    <label asp-for="@Model.Products.FirstOrDefault().Memory">Bộ nhớ ram</label>
                                 </th>
                                
                                 <th style="text-align:center;"></th>
@@ -76,13 +76,13 @@
                     <div class="col-4" style="padding-left:30px;">
                         <div class="row">
                             <div class="col-12">
-                                <label>Name : </label>
+                                <label>Tên : </label>
                             </div>
                             <div class="col-12" style="padding-bottom:15px">
                                 <input asp-for="@Model.Appointments.CustomerName" class="form-control" />
                             </div>
                             <div class="col-12">
-                                <label>Phone Number : </label>
+                                <label>Số điện thoại : </label>
                             </div>
                             <div class="col-12" style="padding-bottom:15px">
                                 <input asp-for="@Model.Appointments.CustomerPhoneNumber" class="form-control" />
@@ -94,16 +94,15 @@
                                 <input asp-for="@Model.Appointments.CustomerEmail" class="form-control" />
                             </div>
                             <div class="col-12">
-                                <label>Appointment Date : </label>
-                                <div class='input-group date' id='datetimepicker1'>
-                                    <input type='date' class="form-control" asp-for="@Model.Buydate" />
-                                    <span asp-validation-for="@Model.Buydate" class="text-danger"></span>
-                                </div>
+                                <label>Địa chỉ  : </label>
                             </div>
-                            <br/>
+                            <div class="col-12" style="padding-bottom:15px">
+                                <input asp-for="@Model.Appointments.Address" class="form-control" />
+                            </div>
+                            <br />
                             @*<div class="col-12" style="padding-bottom:15px">
-                                <input asp-for="@Model.Appointments.AppointmentDate" value="" type="text" id="datepicker" class="form-control" />
-                            </div>*@
+            <input asp-for="@Model.Appointments.AppointmentDate" value="" type="text" id="datepicker" class="form-control" />
+        </div>*@
                             <div class="col-12">
                                 <button type="submit" id="btnPlaceOrder" class="btn btn-success"><h2>Buy</h2></button>
                             </div>

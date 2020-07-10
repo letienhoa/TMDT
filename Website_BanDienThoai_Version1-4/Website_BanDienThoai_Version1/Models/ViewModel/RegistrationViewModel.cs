@@ -27,7 +27,7 @@ namespace Website_BanDienThoai_Version1.Models.ViewModel
         [Required]
         public string Gender { get; set; }
         [Required]
-        [StringLength(10, MinimumLength = 6)]
+        [StringLength(20, MinimumLength = 8)]
         public string Password { get; set; }
         [Required]
         [NotMapped] // Does not effect with your database

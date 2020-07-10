@@ -43,9 +43,10 @@ namespace Website_BanDienThoai_Version1.Areas.Customer.Controllers
         {
             if (ModelState.IsValid)
             {
+                var logvn=_db.Nhanvien.FromSql("EXECUTE [dbo].[Nhanvien_Login] {0},{1}", model.UserName, model.Password).FirstOrDefault();
                 var log = _db.Users.FromSql("EXECUTE [dbo].[User_Login] {0},{1}", model.UserName, model.Password).FirstOrDefault();
              
-                if (log==null)
+                if (log==null&&logvn==null)
                 {
                     TempData["StatusMessage"] = "Tài khoản hoặc mật khẩu bị sai!!!";
 
@@ -58,6 +59,12 @@ namespace Website_BanDienThoai_Version1.Areas.Customer.Controllers
                         HttpContext.Session.SetInt32("AccountId", log.Id);
                         return RedirectToAction("Index", "Products", new { area = "Admin" });
                       }
+                    else if (logvn != null)
+                    {
+                        HttpContext.Session.SetInt32("AccountId", logvn.Id);
+                        return RedirectToAction("Index", "Products", new { area = "Admin" });
+                    }
+                        
 
                     HttpContext.Session.SetInt32("AccountId", log.Id);
                     

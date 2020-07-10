@@ -4,7 +4,7 @@
     ViewData["Title"] = "Edit";
 }
 <br />
-<h2 class="text-info" style="padding-left:40px;font-size:30px;text-align:center;">Delete User</h2>
+<h2 class="text-info" style="padding-left:40px;font-size:30px;text-align:center;">Xóa người dùng</h2>
 
 <form method="post" asp-action="Delete" style="padding-left:50px;font-size:14px;">
 
@@ -12,15 +12,15 @@
         <input type="hidden" asp-for="Id" />
         <div asp-validation-summary="ModelOnly" readonly class="text-danger"></div>
         <div class="form-group row">
-            <label for="Name">Name</label>
+            <label for="Name">Tên</label>
             <input type="text" name="Name" asp-for="Name" readonly class="form-control input-sm" >
         </div>
         <div class="form-group row">
-            <label for="UserName">UserName</label>
+            <label for="UserName">Tên đăng nhập</label>
             <input type="text" name="UserName" asp-for="UserName" readonly class="form-control input-sm" >
         </div>
         <div class="form-group row">
-            <label asp-for="Phone"></label>
+            <label asp-for="Phone">Số điện thoại</label>
             <input type="text" name="Phone"  asp-for="Phone"readonly class="form-control input-sm">
 
         </div>
@@ -29,28 +29,28 @@
             <input type="email" name="Email" asp-for="Email"readonly class="form-control input-sm" >
         </div>
         <div class="form-group row">
-            <label for="Password">Password</label>
+            <label for="Password">Mật khẩu</label>
             <input type="password" name="Password" asp-for="Password" readonly class="form-control input-sm">
         </div>
         <div class="form-group row">
-            <label asp-for="DateOfBith">DayOfBirth</label>
+            <label asp-for="DateOfBith">Ngày sinh</label>
             <div class='input-group date' id='datetimepicker1'>
                 <input type='date'readonly class="form-control" asp-for="DateOfBith" />
             </div>
         </div>
         <div class="form-group row">
-            <label asp-for="Gender">Gender</label>&nbsp;
+            <label asp-for="Gender">Giới tính</label>&nbsp;
             <label>
-                <input disabled type="radio" asp-for="Gender" value=1 /> Male
+                <input disabled type="radio" asp-for="Gender" value=1 /> Nam
             </label>&nbsp;
             <label>
-                <input disabled type="radio" asp-for="Gender" value=0  /> Female
+                <input disabled type="radio" asp-for="Gender" value=0  /> Nữ
             </label>
         </div>
         <br />
         <div class="form-group">
-            <input type="submit" class="btn btn-danger" value="Delete" />
-            <a asp-action="Index" class="btn btn-success">Back to List</a>
+            <input type="submit" class="btn btn-danger" value="Xóa" title="Xóa" />
+            <a asp-action="Index" class="btn btn-success">Trở lại</a>
         </div>
     </div>
 </form>

@@ -13504,11 +13504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Data\\Studying\\Năm 3\\Học kỳ 2\\TMDT\\Website_BanDienThoai_Version1-3\\Website_BanDienThoai_Version1\\Website_BanDienThoai_Version1.csproj",
+      "projectUniqueName": "E:\\Data\\Studying\\Năm 3\\Học kỳ 2\\TMDT\\TMDT-Diem\\TMDT-Diem\\Website_BanDienThoai_Version1-4\\Website_BanDienThoai_Version1\\Website_BanDienThoai_Version1.csproj",
       "projectName": "Website_BanDienThoai_Version1",
-      "projectPath": "E:\\Data\\Studying\\Năm 3\\Học kỳ 2\\TMDT\\Website_BanDienThoai_Version1-3\\Website_BanDienThoai_Version1\\Website_BanDienThoai_Version1.csproj",
+      "projectPath": "E:\\Data\\Studying\\Năm 3\\Học kỳ 2\\TMDT\\TMDT-Diem\\TMDT-Diem\\Website_BanDienThoai_Version1-4\\Website_BanDienThoai_Version1\\Website_BanDienThoai_Version1.csproj",
       "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-      "outputPath": "E:\\Data\\Studying\\Năm 3\\Học kỳ 2\\TMDT\\Website_BanDienThoai_Version1-3\\Website_BanDienThoai_Version1\\obj\\",
+      "outputPath": "E:\\Data\\Studying\\Năm 3\\Học kỳ 2\\TMDT\\TMDT-Diem\\TMDT-Diem\\Website_BanDienThoai_Version1-4\\Website_BanDienThoai_Version1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
