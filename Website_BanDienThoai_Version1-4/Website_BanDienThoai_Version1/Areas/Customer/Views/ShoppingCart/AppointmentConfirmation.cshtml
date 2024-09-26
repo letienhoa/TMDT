@@ -1,0 +1,21 @@
+﻿@model Website_BanDienThoai_Version1.Models.ViewModel.ShoppingCartViewModel
+@{
+    ViewData["Title"] = "AppointmentConfirmation";
+}
+
+<br />
+<h2 class="text-info">Appointment Confirmation</h2>
+
+<br />
+
+<div class="form-text">
+    Đơn hàng của bạn đã được xác nhận.Rất vui lòng được phục vụ,hãy liên lạc ngay khi có thắc mắc
+</div>
+<br />
+
+<partial name="~/Views/Shared/_AppointmentCustomerDetails.cshtml" model="Model.Appointments" />
+<br />
+
+<partial name="~/Views/Shared/_AppointmentProductDetails.cshtml" model="Model.Products" />
+
+<a asp-area="Customer" asp-controller="Home" asp-action="Index" class="btn btn-success"> Back to Products</a>

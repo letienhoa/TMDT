@@ -1,0 +1,28 @@
+﻿@model Website_BanDienThoai_Version1.Models.SpecialTag
+@{
+    ViewData["Title"] = "Delete";
+}
+<br />
+<h2 class="text-info" style="padding-left:40px;font-size:30px;text-align:center;">
+    Xóa phân loại
+</h2>
+<form method="post" asp-action="Delete" style="padding-left:50px;font-size:14px;">
+    <div class="p-4 border rounded">
+        <input type="hidden" asp-for="Id" />
+
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Name">Tên phân loại</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Name" disabled class="form-control" />
+            </div>
+
+        </div>
+
+        <div class="form-group">
+            <input type="submit" class="btn btn-danger" asp-route-id="@Model.Id" value="Xóa">
+            <a asp-action="Index" class="btn btn-success">Trở lại</a>
+        </div>
+    </div>
+</form>
